@@ -11,4 +11,9 @@
   <url><loc>https://thebestpromocodes.com/other/myprize.html</loc></url>
   <url><loc>https://thebestpromocodes.com/responsible-gaming.html</loc></url>
   <url><loc>https://thebestpromocodes.com/disclosures.html</loc></url>
+  <url>
+    <loc>https://thebestpromocodes.com/other/shuffle-us.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>
