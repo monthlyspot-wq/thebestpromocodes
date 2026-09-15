@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://thebestpromocodes.com/sitemap.xml
