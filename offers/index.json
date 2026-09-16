@@ -1,0 +1,15 @@
+{
+  "updated": "2026-09-15",
+  "offers": [
+    {"id":"nj-draftkings","name":"DraftKings Casino NJ","region":"nj","path":"/nj/draftkings.html","tags":["nj","casino","spins"]},
+    {"id":"nj-fanduel","name":"FanDuel Casino NJ","region":"nj","path":"/nj/fanduel.html","tags":["nj","casino","match"]},
+    {"id":"nj-caesars","name":"Caesars Palace Online NJ","region":"nj","path":"/nj/caesars.html","tags":["nj","casino","spins"]},
+    {"id":"nj-hard-rock","name":"Hard Rock Bet NJ","region":"nj","path":"/nj/hard-rock.html","tags":["nj","casino","match"]},
+    {"id":"nj-betmgm","name":"BetMGM NJ","region":"nj","path":"/nj/betmgm.html","tags":["nj","raf","bonus"]},
+    {"id":"other-stake","name":"Stake.us","region":"other","path":"/other/stake-us.html","tags":["other","sweeps"]},
+    {"id":"other-shuffle","name":"Shuffle.us","region":"other","path":"/other/shuffle-us.html","tags":["other","sweeps"]},
+    {"id":"other-myprize","name":"MyPrize.us","region":"other","path":"/other/myprize.html","tags":["other","sweeps"]},
+    {"id":"other-realprize","name":"RealPrize","region":"other","path":"/other/realprize.html","tags":["other","sweeps"]},
+    {"id":"other-rainbet","name":"Rainbet","region":"other","path":"/other/rainbet.html","tags":["other"]}
+  ]
+}

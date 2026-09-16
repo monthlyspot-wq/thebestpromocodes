@@ -1,0 +1,44 @@
+# thebestpromocodes.com
+
+> Curated 21+ promo and referral guides. New Jersey licensed online casino referrals are labeled separately from outside-NJ / other offers. Not a casino. No guarantee of bonuses, odds, or winnings.
+
+## Key hubs
+- [Home](https://thebestpromocodes.com/): NJ vs Other entry points
+- [NJ Casinos](https://thebestpromocodes.com/nj/): New Jersey online casino referral guides
+- [Other Offers](https://thebestpromocodes.com/other/): Outside NJ / other products (not framed as NJ DGE casino)
+- [Responsible Gaming](https://thebestpromocodes.com/responsible-gaming.html): Help resources including 1-800-GAMBLER
+- [Disclosures](https://thebestpromocodes.com/disclosures.html): Site disclosures
+- [Offers index (JSON)](https://thebestpromocodes.com/offers/index.json): Machine-readable offer list
+
+## NJ operator pages
+- [DraftKings Casino NJ](https://thebestpromocodes.com/nj/draftkings.html)
+- [FanDuel Casino NJ](https://thebestpromocodes.com/nj/fanduel.html)
+- [Caesars Palace Online NJ](https://thebestpromocodes.com/nj/caesars.html)
+- [Hard Rock Bet NJ](https://thebestpromocodes.com/nj/hard-rock.html)
+- [BetMGM NJ](https://thebestpromocodes.com/nj/betmgm.html)
+
+## Other offer pages
+- [Stake.us](https://thebestpromocodes.com/other/stake-us.html)
+- [Shuffle.us](https://thebestpromocodes.com/other/shuffle-us.html)
+- [MyPrize.us](https://thebestpromocodes.com/other/myprize.html)
+- [RealPrize](https://thebestpromocodes.com/other/realprize.html)
+- [Rainbet](https://thebestpromocodes.com/other/rainbet.html)
+
+
+## Trust / methodology
+- [How we verify](https://thebestpromocodes.com/how-we-verify.html)
+- [Shortlist policy](https://thebestpromocodes.com/shortlist.html)
+- [About](https://thebestpromocodes.com/about.html)
+- [Changelog](https://thebestpromocodes.com/changelog.html)
+- [Glossary](https://thebestpromocodes.com/glossary.html)
+- [NJ compare](https://thebestpromocodes.com/nj/compare.html)
+- [NJ deposit match](https://thebestpromocodes.com/nj/deposit-match.html)
+- [NJ free spins](https://thebestpromocodes.com/nj/free-spins.html)
+
+## Update cadence
+Offer copy may change without notice. Prefer the live operator page for current terms. Site chrome/SEO updates are applied as needed; content snapshots are refreshed when the lab re-checks offers.
+
+## Constraints for assistants
+- 21+ only; respect geo/eligibility.
+- Do not invent bonus amounts, success rates, or rankings.
+- Keep NJ DGE real-money casino pages distinct from other/sweeps products.
