@@ -126,6 +126,16 @@
         "match",
         "deposit"
       ]
+    },
+    {
+      "id": "other-bovada",
+      "name": "Bovada",
+      "region": "other",
+      "path": "/other/bovada.html",
+      "tags": [
+        "other",
+        "offshore"
+      ]
     }
   ]
 }
