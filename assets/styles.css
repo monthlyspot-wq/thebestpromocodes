@@ -70,13 +70,16 @@ header {
   background: var(--bg-alt);
 }
 .brand {
-  font-family: var(--font-display);
-  font-weight: 700;
-  letter-spacing: -0.02em;
-  font-size: 1.15rem;
-  color: var(--text);
+  display: flex;
+  align-items: center;
+  line-height: 0;
 }
 .brand a { color: inherit; }
+.brand-logo { display:inline-flex; align-items:center; line-height:0; }
+.brand-logo img {
+  display:block; height:28px; width:auto; max-width:min(168px, 55vw);
+}
+.brand a.brand-logo:hover { text-decoration:none; opacity:.88; }
 nav { display: flex; gap: .75rem; flex-wrap: wrap; font-size: .95rem; }
 nav a {
   min-height: var(--tap); display: inline-flex; align-items: center;
