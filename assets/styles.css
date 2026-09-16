@@ -130,16 +130,17 @@ nav[aria-label="Primary"] a {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  padding: .4rem .85rem;
+  padding: .45rem .95rem;
   color: var(--text);
   font-family: var(--font-serif);
   font-weight: 600;
   font-size: .95rem;
   letter-spacing: 0.015em;
   line-height: 1.2;
-  border: 1.5px solid var(--border-strong);
-  border-radius: 2px;
-  background: transparent;
+  border: 2px solid #4a4640;
+  border-radius: 4px;
+  background: var(--card);
+  box-shadow: 0 1px 0 rgba(29,26,27,.06);
   text-decoration: none;
 }
 nav[aria-label="Primary"] a:hover {
