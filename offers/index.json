@@ -136,6 +136,16 @@
         "other",
         "offshore"
       ]
+    },
+    {
+      "id": "other-ignition",
+      "name": "Ignition Casino",
+      "region": "other",
+      "path": "/other/ignition.html",
+      "tags": [
+        "other",
+        "offshore"
+      ]
     }
   ]
 }
