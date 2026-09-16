@@ -115,6 +115,17 @@
         "sweeps",
         "signup"
       ]
+    },
+    {
+      "id": "nj-fanatics",
+      "name": "Fanatics Casino",
+      "region": "nj",
+      "path": "/nj/fanatics.html",
+      "tags": [
+        "nj",
+        "match",
+        "deposit"
+      ]
     }
   ]
 }
