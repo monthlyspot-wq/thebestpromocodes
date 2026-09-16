@@ -27,13 +27,24 @@
 <!--D:JSONLD-->
 <script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "Organization", "@id": "https://thebestpromocodes.com/#org", "name": "thebestpromocodes.com", "url": "https://thebestpromocodes.com/", "description": "21+ promo and referral guides. NJ casino referrals labeled separately from other offers."}, {"@type": "WebSite", "@id": "https://thebestpromocodes.com/#website", "url": "https://thebestpromocodes.com/", "name": "thebestpromocodes.com", "publisher": {"@id": "https://thebestpromocodes.com/#org"}, "inLanguage": "en-US"}, {"@type": "WebPage", "@id": "https://thebestpromocodes.com/nj/deposit-match.html#webpage", "url": "https://thebestpromocodes.com/nj/deposit-match.html", "name": "NJ deposit match referral guides (21+) | thebestpromocodes.com", "description": "New Jersey casino referral guides with 100% deposit match headlines. 21+.", "isPartOf": {"@id": "https://thebestpromocodes.com/#website"}, "dateModified": "2026-09-15", "inLanguage": "en-US", "breadcrumb": {"@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://thebestpromocodes.com/"}, {"@type": "ListItem", "position": 2, "name": "NJ Casinos", "item": "https://thebestpromocodes.com/nj/"}, {"@type": "ListItem", "position": 3, "name": "Deposit match", "item": "https://thebestpromocodes.com/nj/deposit-match.html"}]}}, {"@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://thebestpromocodes.com/"}, {"@type": "ListItem", "position": 2, "name": "NJ Casinos", "item": "https://thebestpromocodes.com/nj/"}, {"@type": "ListItem", "position": 3, "name": "Deposit match", "item": "https://thebestpromocodes.com/nj/deposit-match.html"}]}, {"@type": "FAQPage", "@id": "https://thebestpromocodes.com/nj/deposit-match.html#faq", "mainEntity": [{"@type": "Question", "name": "Do I need to be in New Jersey?", "acceptedAnswer": {"@type": "Answer", "text": "These guides are for adults who can lawfully use the named NJ-licensed online casino apps/sites. Location and eligibility rules apply."}}, {"@type": "Question", "name": "Is a promo code always required?", "acceptedAnswer": {"@type": "Answer", "text": "Not always. Some offers are referral-link based. Follow the page CTA and the operator’s signup flow."}}, {"@type": "Question", "name": "Can terms differ from what I read here?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. Operator terms control. Treat this page as a guide, not a contract."}}, {"@type": "Question", "name": "Gambling problem help?", "acceptedAnswer": {"@type": "Answer", "text": "Call 1-800-GAMBLER. More links on the Responsible Gaming page."}}]}]}</script>
 <!--/D:JSONLD-->
-<link rel="stylesheet" href="/assets/styles.css?v=d2"/>
+<link rel="stylesheet" href="/assets/site-d2.css"/>
+<style id="nav-d2">
+/* critical: outlined primary nav — survives stale CSS caches */
+nav.nav-primary{display:flex;gap:.45rem;flex-wrap:wrap;align-items:center}
+nav.nav-primary a{
+  min-height:44px;display:inline-flex;align-items:center;justify-content:center;
+  padding:.45rem .95rem;color:#1d1a1b;font-weight:600;font-size:.95rem;
+  border:2px solid #4a4640;border-radius:4px;background:#fff;
+  text-decoration:none;box-shadow:0 1px 0 rgba(29,26,27,.06)
+}
+nav.nav-primary a:hover{background:#f2f0ec;border-color:#1d1a1b;text-decoration:none}
+</style>
 </head>
 <body>
 <a class="skip-link" href="#main">Skip to main content</a>
 <header>
   <div class="brand"><a class="brand-logo" href="/" aria-label="thebestpromocodes.com"><img src="/assets/logo-best-promos.png" width="168" height="28" alt="thebestpromocodes.com" decoding="async"/></a></div>
-  <nav aria-label="Primary">
+  <nav class="nav-primary" aria-label="Primary">
     <a href="/">Home</a>
     <a href="/nj/">NJ Casinos</a>
     <a href="/other/">Other Offers</a>

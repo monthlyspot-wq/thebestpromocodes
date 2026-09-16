@@ -27,13 +27,24 @@
 <!--D:JSONLD-->
 <script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "Organization", "@id": "https://thebestpromocodes.com/#org", "name": "thebestpromocodes.com", "url": "https://thebestpromocodes.com/", "description": "21+ promo and referral guides. NJ casino referrals labeled separately from other offers."}, {"@type": "WebSite", "@id": "https://thebestpromocodes.com/#website", "url": "https://thebestpromocodes.com/", "name": "thebestpromocodes.com", "publisher": {"@id": "https://thebestpromocodes.com/#org"}, "inLanguage": "en-US"}, {"@type": "WebPage", "@id": "https://thebestpromocodes.com/#webpage", "url": "https://thebestpromocodes.com/", "name": "NJ casino promo & referral guides (21+) | thebestpromocodes.com", "description": "NJ online casino referral guides and separate non-DGE offers. 21+. Clear headlines, no fake rankings. Confirm terms on the operator before you play.", "isPartOf": {"@id": "https://thebestpromocodes.com/#website"}, "dateModified": "2026-09-15", "inLanguage": "en-US", "breadcrumb": {"@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://thebestpromocodes.com/"}]}}, {"@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://thebestpromocodes.com/"}]}, {"@type": "FAQPage", "@id": "https://thebestpromocodes.com/#faq", "mainEntity": [{"@type": "Question", "name": "Who is this site for?", "acceptedAnswer": {"@type": "Answer", "text": "Adults 21+ looking for clear referral/promo guides. New Jersey licensed online casino offers are under NJ Casinos; other products are labeled separately."}}, {"@type": "Question", "name": "Do you guarantee a bonus?", "acceptedAnswer": {"@type": "Answer", "text": "No. Offers can change. This site is not a casino and does not guarantee bonuses, odds, or winnings."}}, {"@type": "Question", "name": "What is the difference between NJ and Other?", "acceptedAnswer": {"@type": "Answer", "text": "NJ pages cover selected New Jersey online casino referral guides. Other pages cover outside-NJ or non-DGE-framed products and are labeled accordingly."}}, {"@type": "Question", "name": "Where can I get help with gambling problems?", "acceptedAnswer": {"@type": "Answer", "text": "Call 1-800-GAMBLER. See our Responsible Gaming page for more resources."}}]}]}</script>
 <!--/D:JSONLD-->
-<link rel="stylesheet" href="/assets/styles.css?v=d2"/>
+<link rel="stylesheet" href="/assets/site-d2.css"/>
+<style id="nav-d2">
+/* critical: outlined primary nav — survives stale CSS caches */
+nav.nav-primary{display:flex;gap:.45rem;flex-wrap:wrap;align-items:center}
+nav.nav-primary a{
+  min-height:44px;display:inline-flex;align-items:center;justify-content:center;
+  padding:.45rem .95rem;color:#1d1a1b;font-weight:600;font-size:.95rem;
+  border:2px solid #4a4640;border-radius:4px;background:#fff;
+  text-decoration:none;box-shadow:0 1px 0 rgba(29,26,27,.06)
+}
+nav.nav-primary a:hover{background:#f2f0ec;border-color:#1d1a1b;text-decoration:none}
+</style>
 </head>
 <body>
 <a class="skip-link" href="#main">Skip to main content</a>
 <header>
   <div class="brand"><a class="brand-logo" href="/" aria-label="thebestpromocodes.com"><img src="/assets/logo-best-promos.png" width="168" height="28" alt="thebestpromocodes.com" decoding="async"/></a></div>
-  <nav aria-label="Primary">
+  <nav class="nav-primary" aria-label="Primary">
     <a href="/">Home</a>
     <a href="/nj/">NJ Casinos</a>
     <a href="/other/">Other Offers</a>

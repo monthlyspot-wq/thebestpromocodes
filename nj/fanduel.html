@@ -27,13 +27,24 @@
 <!--D:JSONLD-->
 <script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "Organization", "@id": "https://thebestpromocodes.com/#org", "name": "thebestpromocodes.com", "url": "https://thebestpromocodes.com/", "description": "21+ promo and referral guides. NJ casino referrals labeled separately from other offers."}, {"@type": "WebSite", "@id": "https://thebestpromocodes.com/#website", "url": "https://thebestpromocodes.com/", "name": "thebestpromocodes.com", "publisher": {"@id": "https://thebestpromocodes.com/#org"}, "inLanguage": "en-US"}, {"@type": "WebPage", "@id": "https://thebestpromocodes.com/nj/fanduel.html#webpage", "url": "https://thebestpromocodes.com/nj/fanduel.html", "name": "FanDuel Casino NJ — 100% Match + 50 Free Spins | thebestpromocodes.com", "description": "FanDuel Casino NJ referral: 100% deposit match + 50 free spins for eligible new players. 21+. Last checked 2026-09-15.", "isPartOf": {"@id": "https://thebestpromocodes.com/#website"}, "dateModified": "2026-09-15", "inLanguage": "en-US", "breadcrumb": {"@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://thebestpromocodes.com/"}, {"@type": "ListItem", "position": 2, "name": "NJ Casinos", "item": "https://thebestpromocodes.com/nj/"}, {"@type": "ListItem", "position": 3, "name": "FanDuel", "item": "https://thebestpromocodes.com/nj/fanduel.html"}]}}, {"@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://thebestpromocodes.com/"}, {"@type": "ListItem", "position": 2, "name": "NJ Casinos", "item": "https://thebestpromocodes.com/nj/"}, {"@type": "ListItem", "position": 3, "name": "FanDuel", "item": "https://thebestpromocodes.com/nj/fanduel.html"}]}, {"@type": "FAQPage", "@id": "https://thebestpromocodes.com/nj/fanduel.html#faq", "mainEntity": [{"@type": "Question", "name": "Who is eligible?", "acceptedAnswer": {"@type": "Answer", "text": "Typically adults 21+ who can lawfully use the operator in New Jersey. Exact rules are set by the operator."}}, {"@type": "Question", "name": "Do I need a code?", "acceptedAnswer": {"@type": "Answer", "text": "Depends on the offer. Use the page CTA; some flows are link-based rather than typed codes."}}, {"@type": "Question", "name": "What if the offer looks different on the operator site?", "acceptedAnswer": {"@type": "Answer", "text": "Operator terms win. Offers change; use the live operator page as the source of truth for claim steps."}}, {"@type": "Question", "name": "Responsible gaming?", "acceptedAnswer": {"@type": "Answer", "text": "If gambling is a problem for you or someone you know, call 1-800-GAMBLER."}}]}, {"@type": "HowTo", "name": "Use the FanDuel Casino NJ referral guide", "description": "Open the guide CTA and complete signup only if you are 21+ and eligible.", "step": [{"@type": "HowToStep", "name": "Confirm eligibility", "text": "Confirm you are 21+ and meet the operator’s location and account rules."}, {"@type": "HowToStep", "name": "Open the offer link", "text": "Use the primary button on this page to open the operator site."}, {"@type": "HowToStep", "name": "Follow operator terms", "text": "Complete signup and any deposit/play steps shown by the operator. Their terms control."}]}]}</script>
 <!--/D:JSONLD-->
-<link rel="stylesheet" href="/assets/styles.css?v=d2"/>
+<link rel="stylesheet" href="/assets/site-d2.css"/>
+<style id="nav-d2">
+/* critical: outlined primary nav — survives stale CSS caches */
+nav.nav-primary{display:flex;gap:.45rem;flex-wrap:wrap;align-items:center}
+nav.nav-primary a{
+  min-height:44px;display:inline-flex;align-items:center;justify-content:center;
+  padding:.45rem .95rem;color:#1d1a1b;font-weight:600;font-size:.95rem;
+  border:2px solid #4a4640;border-radius:4px;background:#fff;
+  text-decoration:none;box-shadow:0 1px 0 rgba(29,26,27,.06)
+}
+nav.nav-primary a:hover{background:#f2f0ec;border-color:#1d1a1b;text-decoration:none}
+</style>
 </head>
 <body>
 <a class="skip-link" href="#main">Skip to main content</a>
 <header>
   <div class="brand"><a class="brand-logo" href="/" aria-label="thebestpromocodes.com"><img src="/assets/logo-best-promos.png" width="168" height="28" alt="thebestpromocodes.com" decoding="async"/></a></div>
-  <nav aria-label="Primary">
+  <nav class="nav-primary" aria-label="Primary">
     <a href="/">Home</a>
     <a href="/nj/">NJ Casinos</a>
     <a href="/other/">Other Offers</a>
