@@ -8,7 +8,7 @@
   var PINNED = {
     name: "Stake.us",
     href: "/other/stake-us.html",
-    blurb: "Free $25 on signup"
+    blurb: "Free $25 on signup · Not available in New Jersey"
   };
 
   var POOL = [
@@ -19,10 +19,10 @@
     { name: "BetMGM", href: "/nj/betmgm.html", blurb: "Up to a $100 bonus on deposit" },
     { name: "Fanatics Casino", href: "/nj/fanatics.html", blurb: "Deposit $10, get $30" },
     { name: "Shuffle.us", href: "/other/shuffle-us.html", blurb: "Free $25 on signup" },
-    { name: "Wow Vegas", href: "/other/wowvegas.html", blurb: "Earn $20 upon signup and first deposit" },
+    { name: "Wow Vegas", href: "/other/wowvegas.html", blurb: "Earn $20 upon signup and first WOW Coins purchase" },
     { name: "Bovada", href: "/other/bovada.html", blurb: "Bet $10, get $30" },
     { name: "Ignition Casino", href: "/other/ignition.html", blurb: "300% welcome deposit bonus" },
-    { name: "Rainbet", href: "/other/rainbet.html", blurb: "Free $25 on signup" }
+    { name: "Rainbet", href: "/other/rainbet.html", blurb: "Free $25 on signup · Rainbet's terms say it does not accept US residents" }
   ];
 
   function randInt(max) {
