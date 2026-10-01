@@ -2,3 +2,5 @@ User-agent: *
 Allow: /
 
 Sitemap: https://thebestpromocodes.com/sitemap.xml
+Sitemap: https://thebestpromocodes.com/nj/feed.xml
+Sitemap: https://thebestpromocodes.com/other/feed.xml

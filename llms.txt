@@ -45,6 +45,10 @@
 - [RealPrize vs MyPrize compared](https://thebestpromocodes.com/other/realprize-vs-myprize.html)
 
 
+## Feeds (Atom)
+- [NJ casino guides feed](https://thebestpromocodes.com/nj/feed.xml): new NJ guides and comparisons
+- [Other offer guides feed (not NJ)](https://thebestpromocodes.com/other/feed.xml): new outside-NJ guides
+
 ## Trust / methodology
 - [How we verify](https://thebestpromocodes.com/how-we-verify.html)
 - [Shortlist policy](https://thebestpromocodes.com/shortlist.html)
